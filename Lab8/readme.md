@@ -5,7 +5,9 @@ Include your executive summary here...
 ##### Relational Data
 ##### Big Data
 
-### Structured Query Language (SQL) Injections
+### Structured Query Language (SQL) 
+
+### SQL Injections
 
 ### Ethical and Legal Implications
 ##### Code of Ethics
