@@ -1,10 +1,6 @@
 ### Executive Summary 
 Include your executive summary here...
 
-### Object Oriented Programming (OOP)
-
-### Unified Modeling Language (UML)
-
 ### Data, Information and Knowledge
 ##### Relational Data
 ##### Big Data
