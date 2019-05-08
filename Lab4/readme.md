@@ -14,5 +14,5 @@ Include your executive summary here...
 
 ### Conclusion
 
-Include your professional conclusion here
+Include your professional conclusion here...
 
