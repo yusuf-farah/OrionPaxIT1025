@@ -1,4 +1,5 @@
 ### Executive Summary 
+Include your executive summary here...
 
 ### Hardware
 ##### Hard Drives and Memory
@@ -12,5 +13,5 @@
 #### Hexadecimal Color Representation
 
 ### Conclusion
-
+Include your conclusion here...
 
