@@ -16,5 +16,5 @@ Include your executive summary here...
 ##### Brute-Force
 
 ### Conclusion
-Include your professional conclusion here
+Include your professional conclusion here...
 
