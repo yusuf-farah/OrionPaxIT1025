@@ -3,6 +3,7 @@ Include your executive summary here...
 
 ### Data, Information and Knowledge
 ##### Relational Data
+
 ##### Big Data
 
 ### Structured Query Language (SQL) 
